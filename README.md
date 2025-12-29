@@ -1,16 +1,50 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**naeemibrahim969/naeemibrahim969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 **Senior Mobile App Developer** with **10+ years** of industry experience.
+- 🚀 **5+ years** of expertise in **Flutter & Dart** (Cross-platform).
+- 🤖 **8+ years** of deep experience in **Native Android Development** (Kotlin/Java).
+- 🛠️ Specialized in scalable architecture, Jetpack Compose, and CI/CD automation.
+- 🤝 Open to collaborating on innovative mobile projects and mentorship.
+- 💬 Ask me about: Flutter, Android Internal, and Mobile DevOps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Socials:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/naeem-ibrahim-64b4a382/)
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/5068945/naeem-ibrahim)
+[<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">](https://naeemibrahim969.github.io/naeem-ibrahim/)
+
+---
+
+# 💻 Tech Stack:
+
+### 🚀 Mobile & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+### 🛠️ Backend, DevOps & Tools
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Fastlane](https://img.shields.io/badge/fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### ⚙️ Architecture & Patterns
+- **CI/CD Pipelines** | **Dependency Injection (Dagger/Hilt/GetIt)** | **MVVM / Clean Architecture**
+
+---
+
+# 📊 GitHub Stats:
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naeemibrahim969&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemibrahim969&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+# 📈 Contribution Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naeemibrahim969&theme=github-compact)
