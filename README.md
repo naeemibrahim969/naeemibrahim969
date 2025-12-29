@@ -35,7 +35,3 @@
 
 ### ⚙️ Architecture & Patterns
 - **CI/CD Pipelines** | **Dependency Injection (Dagger/Hilt/GetIt)** | **MVVM / Clean Architecture**
-
-
-# 📈 Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naeemibrahim969&theme=github-compact)
