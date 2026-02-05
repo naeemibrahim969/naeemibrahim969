@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 📱 **Senior Mobile App Developer** with **10+ years** of industry experience.
-- 🚀 **5+ years** of expertise in **Flutter & Dart** (Cross-platform).
+- 🚀 **5+ years** of expertise in **Flutter & Dart** (Bloc, Riverpod, Provider, Getx).
 - 🤖 **8+ years** of deep experience in **Native Android Development** (Kotlin/Java).
 - 🛠️ Specialized in scalable architecture, Jetpack Compose, and CI/CD automation.
 - 🤝 Open to collaborating on innovative mobile projects and mentorship.
