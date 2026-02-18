@@ -5,7 +5,7 @@
 - 🤖 **8+ years** of deep experience in **Native Android Development** (Kotlin/Java).
 - 🛠️ Specialized in scalable architecture, Jetpack Compose, and CI/CD automation.
 - 🤝 Open to collaborating on innovative mobile projects and mentorship.
-- 💬 Ask me about: Flutter, Android Internal, and Mobile DevOps.
+- 💬 Ask me about: Flutter, Android ,iOS and Mobile Apps.
 
 ---
 
