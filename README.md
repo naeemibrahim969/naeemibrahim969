@@ -28,7 +28,11 @@
 
 ### 🛠️ Backend, DevOps & Tools
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 ![Fastlane](https://img.shields.io/badge/fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=black)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
